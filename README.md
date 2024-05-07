@@ -1,6 +1,7 @@
 ### Howdy there 👋
 
-<script src="https://visualizer.eggsy.xyz/826976100307304479"></script>
+[Waka Waka](https://lanyard.cnrad.dev/api/826976100307304479)
+<iframe ="https://lanyard.cnrad.dev/api/826976100307304479"></iframe>
 - 🎁 Send me gifts over @ [Throne](https://throne.com/drkeefy)
 
 
