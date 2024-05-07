@@ -1,6 +1,6 @@
 ### Howdy there 👋
 
-[](api.lanyard.rest/v1/users/:826976100307304479)
+[api.lanyard.rest/v1/users/:826976100307304479]
 
 - 🎁 Send me gifts over @ [Throne](https://throne.com/drkeefy)
 
