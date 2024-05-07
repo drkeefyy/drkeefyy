@@ -1,7 +1,6 @@
 ### Howdy there 👋
 
-[](https://api.lanyard.rest/v1/users/826976100307304479)
-
+{"data":{"kv":{},"spotify":null,"discord_user":{"id":"826976100307304479","username":"drkeefy","avatar":"8cff896d40ad2a74316de5d459c4677b","discriminator":"0","bot":false,"clan":null,"global_name":"kat.mp3 ✯✞","avatar_decoration_data":null,"display_name":"kat.mp3 ✯✞","public_flags":64},"activities":[{"id":"custom","name":"Custom Status","type":4,"state":"Use Code, \"DRKEEFY,\" @ levelupcup.com","created_at":1715106065569}],"discord_status":"dnd","active_on_discord_web":false,"active_on_discord_desktop":true,"active_on_discord_mobile":false,"listening_to_spotify":false},"success":true}
 - 🎁 Send me gifts over @ [Throne](https://throne.com/drkeefy)
 
 
