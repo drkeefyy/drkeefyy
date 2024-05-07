@@ -1,9 +1,23 @@
-### Howdy there 👋
+# Howdy there 👋
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/826976100307304479?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/826976100307304479)
 
+## About Me! 
+- 👋🏻 I'm a designer & streamer from Texas!
+- 🧑🏻‍💻 I do minor development on Java, CSS, Javascript & HTML
 - 🎁 Send me gifts over @ [Throne](https://throne.com/drkeefy)
+- 💅🏻 Transfeminine, Genderfluid, Bisexual
+- 🤔 NickNames: Keefy, MM, Mister Malibu, Doc, Keifer, Midwestern Maniac, Red, Zombie
+
+
+
+## Social media
+- 🐦 [Twitter](https://twitter.com/drkeefy)
+- 📸 [Instagram](https://instagram.com/drkeefy)
+- 🎥 [YouTube](https://youtube.com/@drkeefy)
+- 📚 [Facebook](https://www.facebook.com/profile.php?id=100087590284105)
+
 
 
 <!--
