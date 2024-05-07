@@ -2,6 +2,9 @@
 
 [Waka Waka](https://lanyard.cnrad.dev/api/826976100307304479)
 <iframe src ="https://lanyard.cnrad.dev/api/826976100307304479"></iframe>
+
+[![Discord Presence](https://visualizer.eggsy.xyz/826976100307304479)
+
 - 🎁 Send me gifts over @ [Throne](https://throne.com/drkeefy)
 
 
